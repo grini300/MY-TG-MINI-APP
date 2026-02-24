@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -709,5 +708,3 @@ showConfirm('💰 ПОЛУЧИТЬ VIP СТАТУС\n\n✨ 500₽ в месяц\
     </script>
 </body>
 </html>
-
-
